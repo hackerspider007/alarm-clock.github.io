@@ -1,4 +1,4 @@
-# alarmClockImproved
+# Alarm  Clock  
 
 Hosted Live Link of the Alarm Clock :
 
@@ -17,5 +17,7 @@ Alarm will clear after its time has been reached.
 # Technologies Used
 
 HTML5
+
 CSS3
+
 Vanilla JavaScript
