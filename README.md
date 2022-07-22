@@ -2,7 +2,7 @@
 
 Hosted Live Link of the Alarm Clock :
 
-https://manikpokhetra79.github.io/alarmClockImproved/
+https://hackerspider007.github.io/alarm-clock.github.io/
 
 # Description 
 An dynamic and responsive alarm clock developed using only vanilla javascript ,HTML and CSS.
